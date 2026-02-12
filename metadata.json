@@ -1,0 +1,8 @@
+{
+  "name": "CricPulse: Global Sports Tech Ecosystem",
+  "description": "A comprehensive, enterprise-grade cricket ecosystem platform featuring real-time match engines, AI-powered commentary, fantasy leagues, and SaaS multi-tenancy management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
